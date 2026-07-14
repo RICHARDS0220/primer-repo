@@ -1,2 +1,1 @@
-Nuevo proyecto
-nuevo texto
+# bitacora QA - Ricardo Sanchez

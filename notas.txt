@@ -1,0 +1,6 @@
+echo "Aprendi git add que prepara los archivos para realizar un commit"
+echo "=== === ==="
+echo "Aprendi git commit -m Guarda los cambios con un mensaje "
+echo "=== === ==="
+echo "Aprendi git pull que descarga los archivos desde github  y git push que envia los cambios locales a la nube"
+echo "=== === ==="
