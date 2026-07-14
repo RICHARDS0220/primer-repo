@@ -1,0 +1,7 @@
+echo "Herramientas: "
+echo ""
+echo "Git"
+echo ""
+echo "GitHub "
+echo ""
+echo "Visual Studio Code"
