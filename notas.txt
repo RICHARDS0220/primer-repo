@@ -6,3 +6,7 @@ echo "Aprendi git pull que descarga los archivos desde github  y git push que en
 echo "=== === ==="
 echo "Probando clonacion"
 echo "=== === ==="
+echo "Reto 2"
+echo "=== === ==="
+echo "Flujo diario, gitignore y deshacer cambios"
+echo "=== === ==="
